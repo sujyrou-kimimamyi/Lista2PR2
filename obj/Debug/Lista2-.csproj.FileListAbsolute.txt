@@ -1,0 +1,8 @@
+C:\Users\cj3016668\source\repos\Lista2-\Lista2-\bin\Debug\Lista2-.exe.config
+C:\Users\cj3016668\source\repos\Lista2-\Lista2-\bin\Debug\Lista2-.exe
+C:\Users\cj3016668\source\repos\Lista2-\Lista2-\bin\Debug\Lista2-.pdb
+C:\Users\cj3016668\source\repos\Lista2-\Lista2-\obj\Debug\Lista2-.csproj.AssemblyReference.cache
+C:\Users\cj3016668\source\repos\Lista2-\Lista2-\obj\Debug\Lista2-.csproj.SuggestedBindingRedirects.cache
+C:\Users\cj3016668\source\repos\Lista2-\Lista2-\obj\Debug\Lista2-.csproj.CoreCompileInputs.cache
+C:\Users\cj3016668\source\repos\Lista2-\Lista2-\obj\Debug\Lista2-.exe
+C:\Users\cj3016668\source\repos\Lista2-\Lista2-\obj\Debug\Lista2-.pdb
